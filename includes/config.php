@@ -8,4 +8,5 @@ define('DB_NAME', 'cut_url');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
 
+session_start();
 ?>
